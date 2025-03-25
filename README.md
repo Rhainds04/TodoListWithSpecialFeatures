@@ -73,6 +73,10 @@ expo start
 
 ## 📸 Screenshots
 <!-- Add screenshots of your app here when available -->
+![image](https://github.com/user-attachments/assets/35c875bb-713e-4171-b2cd-af1f99d0f61e)
+![image](https://github.com/user-attachments/assets/b5539291-3443-419b-8f1d-8607effbe9bd)
+
+
 
 ## 📋 Future implementations
 - [ ] Add more gamification elements
