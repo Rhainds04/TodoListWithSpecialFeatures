@@ -54,13 +54,10 @@ npm install
 # or
 yarn install
 ```
-
-3. Set up environment variables
-- Create a `.env` file
-- Add your ChatGPT API key:
-```
-OPENAI_API_KEY=your_api_key_here
-```
+3. Add API key to the project
+- go in index.tsx
+- you will find a field: <YOUR_API_KEY>
+-enter the key in that field
 
 ### Running the App
 ```bash
@@ -77,15 +74,12 @@ expo start
 ## 📸 Screenshots
 <!-- Add screenshots of your app here when available -->
 
-## 📋 Todo
+## 📋 Future implementations
 - [ ] Add more gamification elements
 - [ ] Implement user authentication
 - [ ] Create widget support
 
-## 📄 License
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## 📧 Contact
-Your Name - [Your Email]
+Émile Rhainds - [emilerhainds@gmail.com]
 
 Project Link: [https://github.com/Rhainds04/TodoListWithSpecialFeatures](https://github.com/Rhainds04/TodoListWithSpecialFeatures)
